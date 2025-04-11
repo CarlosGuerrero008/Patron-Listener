@@ -28,6 +28,3 @@ python load_csv.py t.csv
 • Marzo: 800
 • Mayo: 600
 • Febrero: 0
-
-python json_to_xml.py t.Json
-XML generado y guardado en 'output.xml'
