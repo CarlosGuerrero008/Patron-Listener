@@ -1,0 +1,7 @@
+{
+    "descripcion": "Archivo de configuración del servidor",
+    "logs": {"nivel": "verbose", "dir": "/var/log"},
+    "host": "antlr.org",
+    "admin": ["parrt", "tombu"],
+    "alias": []
+}

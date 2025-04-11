@@ -1,0 +1,7 @@
+<root>
+  <descripcion>Archivo de configuración del servidor</descripcion>
+  <logs>{'nivel': 'verbose', 'dir': '/var/log'}</logs>
+  <host>antlr.org</host>
+  <admin>['parrt', 'tombu']</admin>
+  <alias>[]</alias>
+</root>
